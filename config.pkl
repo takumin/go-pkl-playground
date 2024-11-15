@@ -1,0 +1,4 @@
+amends "./pkl/Config.pkl"
+
+host = "localhost"
+port = 1234
